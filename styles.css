@@ -1,6 +1,7 @@
 body{
     background-color: lightcyan;
     /* font-family: Arial, Geneva, Verdana, sans-serif; */ 
+    margin: 10px;
 }
 .middled {
     display: block;
